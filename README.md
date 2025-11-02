@@ -1,2 +1,2 @@
-# smartkob-task-panel
+# Elvin Şahbazov 
 tapşırıqlar
